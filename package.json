@@ -1,8 +1,8 @@
 {
   "name": "feefoolec-2",
-  "displayName": "Feefoolec 2.0",
+  "displayName": "Feefoolec theme 2.0",
   "description": "Improved Feefoolec theme. Made by Feefoolec for Feefoolecs",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Feefoolec 2.0",
+        "label": "Feefoolec 2",
         "uiTheme": "vs-dark",
-        "path": "./themes/Feefoolec 2.0-color-theme.json"
+        "path": "./themes/Feefoolec-2.0-color-theme.json"
       }
     ]
   }
