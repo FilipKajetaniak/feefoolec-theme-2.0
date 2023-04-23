@@ -1,0 +1,21 @@
+{
+  "name": "feefoolec-2",
+  "displayName": "Feefoolec 2.0",
+  "description": "Improved Feefoolec theme. Made by Feefoolec for Feefoolecs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Feefoolec 2.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Feefoolec 2.0-color-theme.json"
+      }
+    ]
+  }
+}
